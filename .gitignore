@@ -1,0 +1,11 @@
+*.o
+*.d
+DipHolod/Debug/
+*.pdsbak
+*.pdsprj
+DipHolod/DipHolod.cppproj
+DipHolod.atsln
+Isparitel.pdsprj.DESKTOP-D5E2JEN.Danil.workspace
+Refregerator.pdsprj.DESKTOP-D5E2JEN.Danil.workspace
+.vs/DipHolod/v14/.atsuo
+DipHolod/DipHolod.componentinfo.xml
